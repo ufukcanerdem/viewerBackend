@@ -1,0 +1,6 @@
+@AutodeskViewerAPI_HostAddress = http://localhost:5252
+
+GET {{AutodeskViewerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
